@@ -64,4 +64,3 @@ def rd1_question_14(df):
 
 
 print("hello world")
-print("hello world")
